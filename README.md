@@ -17,7 +17,7 @@ Desarrollador fullstack, Egresada en Ingeniería Industrial y titulada en Técni
 
 ## Encuentrame :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simoney_Cortes_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/simoney-cortés-rojas-0612521b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simoney_Cortes_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/simoneycortesrojas/)
 
 ## Contacto :
 
