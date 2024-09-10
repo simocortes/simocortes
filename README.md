@@ -1,18 +1,20 @@
-## Hi there, Im Simoney 👋
+## Hola, mi nombre es Simoney 👋
 
-<!--
-**simocortes/simocortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora fullstack apasionada por crear soluciones tecnológicas integrales y eficientes. Con una sólida formación en Ingeniería Industrial y Técnico en Logística y Procesos Industriales, he combinado mi conocimiento en optimización de procesos con un enfoque actualizado en desarrollo web y de software.
 
-## Encuentrame en :
+## Habilidades :
 
-![GitHub Followers](https://img.shields.io/github/stars/simocortes?style=social)
- Soy Ingeniero Industrial y desarrollador fullstack 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![html](https://img.shields.io/badge/</>-HTML-E34F26?logoColor=white&labelColor=101010)
+![html](https://img.shields.io/badge/{B}-Bootstrap-7952B3?logoColor=white&labelColor=101010)
+![html](https://img.shields.io/badge/PY-Python-3776AB?logoColor=white&labelColor=101010)
+![html](https://img.shields.io/badge/Dj-Django-2AB1AC?logoColor=white&labelColor=101010)
+![html](https://img.shields.io/badge/Psql-Postgres-FFDF18?logoColor=white&labelColor=101010)
+
+## Encuentrame :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simoney_Cortes_Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/simoney-cortés-rojas-0612521b4)
+
+## Contacto :
+
+[![Email](https://img.shields.io/badge/simocortes.ing@gmail.com-emailpersonal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:simocortes.ing@gmail.com)
+</br>
