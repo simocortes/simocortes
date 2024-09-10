@@ -6,14 +6,16 @@ Desarrollador fullstack, Egresada en Ingeniería Industrial y titulada en Técni
 
 ![html](https://img.shields.io/badge/Ingles-Intermedio-FF90E8?logoColor=white&labelColor=101010)
 
-
 ## Habilidades :
 
 ![html](https://img.shields.io/badge/</>-HTML-E34F26?logoColor=white&labelColor=101010)
 ![html](https://img.shields.io/badge/{B}-Bootstrap-7952B3?logoColor=white&labelColor=101010)
 ![html](https://img.shields.io/badge/PY-Python-3776AB?logoColor=white&labelColor=101010)
 ![html](https://img.shields.io/badge/Dj-Django-2AB1AC?logoColor=white&labelColor=101010)
+
 ![html](https://img.shields.io/badge/Psql-Postgres-FFDF18?logoColor=white&labelColor=101010)
+![html](https://img.shields.io/badge/JS-Javascript-E40045?logoColor=white&labelColor=101010)
+![html](https://img.shields.io/badge/CSS-CSS-A1CA03?logoColor=white&labelColor=101010)
 
 ## Encuentrame :
 
