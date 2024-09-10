@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Simoney 👋
 
-Desarrolladora fullstack apasionada por crear soluciones tecnológicas integrales y eficientes. Con una sólida formación en Ingeniería Industrial y Técnico en Logística y Procesos Industriales, he combinado mi conocimiento en optimización de procesos con un enfoque actualizado en desarrollo web y de software.
+Desarrollador fullstack, Egresada en Ingeniería Industrial y titulada en Técnico en Logística y Procesos Industriales.  Tengo un enfoque integral que me  permite abordar proyectos con una perspectiva tecnológica actualizada. Mi objetivo es aplicar este conocimiento  para mejorar la productividad y competitividad de proyectos y organizaciones, siempre motivada por el aprendizaje constante y el trabajo colaborativo. 
 
 ## Idiomas oral y escrito : 
 
